@@ -1,0 +1,5 @@
+A formação em Fundamentos de Qualidade e Desenvolvimento de Software começa com uma introdução ao desenvolvimento moderno de software e uma visão geral do mercado, abordando o conceito de Qualidade de Software e sua relevância no cenário atual. Em seguida, exploramos as responsabilidades de um profissional de QA (Quality Assurance) e é apresentamos um roadmap de aprendizagem para iniciar estudos da área.
+
+A formação abrange os principais fundamentos da qualidade de software, como normas, técnicas de testes, níveis de testes, e gerenciamento de defeitos. Também vemos os modelos utilizados em processos de software, o desenvolvimento ágil e como os testes de QA se inserem nesse contexto.
+
+Além disso, a formação inclui um módulo informativo sobre a certificação CTFL. Para concluir, realizei um projeto prático focado em Testes Manuais Funcionais junto ao curso.
